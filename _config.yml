@@ -1,0 +1,4 @@
+title: 我的个人博客
+description: 这是一个基于GitHub Pages的个人博客
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
